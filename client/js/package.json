@@ -11,6 +11,7 @@
 			"gradio": "./src/index.ts",
 			"import": "./dist/index.js"
 		},
+		"./src/*": "./src/*",
 		"./package.json": "./package.json"
 	},
 	"dependencies": {
